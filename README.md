@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @altugmalkan
 - 👀 I’m interested in backend projects with Golang at the moment.
-- 🌱 I’m currently learning Golang + Git + Github
+- 🌱 I’m currently learning Golang + Python + js 
 - 📫 How to reach [me](https://www.linkedin.com/in/altu%C4%9F-malkan-80b8a4284/)
 
 <!---
